@@ -1,13 +1,13 @@
 {
   "bot-account": {
-    "username": "AFKBot", 
+    "username": "AFKBot2", 
     "password": "",
     "type": "offline"
   },
 
   "server": {
-    "ip": "Tyrox_x.aternos.me", 
-    "port": 48211,   
+    "ip": "NitroServer-W4Kl.aternos.me", 
+    "port": 59841,   
     "version": "1.12.1"   
   },
 
@@ -25,12 +25,12 @@
     },
 
     "anti-afk": {
-      "enabled": true,
+      "enabled": false,
       "sneak": true
     },
 
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 60,
 
