@@ -1,7 +1,7 @@
 {
   "bot-account": {
     "username": "AFKBot2", 
-    "password": "minasvt12345m",
+    "password": "",
     "type": "offline"
   },
 
@@ -20,8 +20,8 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": true,
-      "password": "minasvt12345m"
+      "enabled": false,
+      "password": ""
     },
 
     "anti-afk": {
