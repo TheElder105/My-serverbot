@@ -1,7 +1,7 @@
 {
   "bot-account": {
     "username": "AFKBot2", 
-    "password": "",
+    "password": "matrix612",
     "type": "offline"
   },
 
@@ -20,8 +20,8 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": false,
-      "password": ""
+      "enabled": true,
+      "password": "matrix612"
     },
 
     "anti-afk": {
