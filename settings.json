@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "AFKBot2", 
+    "username": "The Hasan", 
     "password": "",
     "type": "offline"
   },
@@ -20,12 +20,12 @@
 
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "matrix612"
     },
 
     "anti-afk": {
-      "enabled": false,
+      "enabled": true,
       "sneak": true
     },
 
@@ -36,7 +36,7 @@
 
       "messages": [
         "I'm a regular player",
-        "Subscibe To Tyrox!",
+        "Subscibe To nitro!",
         "I Like to Play Minecraft!"
       ]
     },
